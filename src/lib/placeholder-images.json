@@ -1,3 +1,34 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "hero",
+      "description": "A vibrant and abstract representation of digital learning and technology, with glowing lines and nodes suggesting connectivity and knowledge.",
+      "imageUrl": "https://images.unsplash.com/photo-1603354350317-6f7aaa5911c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxlZHVjYXRpb24lMjB0ZWNobm9sb2d5fGVufDB8fHx8MTc2MzE4NzM4Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "education technology"
+    },
+    {
+      "id": "testimonial-1",
+      "description": "\"MashMagic completely changed how I study. The interactive lessons are so engaging!\"",
+      "imageUrl": "https://images.unsplash.com/photo-1554727242-741c14fa561c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxwZXJzb24lMjBzbWlsaW5nfGVufDB8fHx8MTc2MzEyMzEyMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person smiling"
+    },
+    {
+      "id": "testimonial-2",
+      "description": "\"As a teacher, the analytics dashboard is a game-changer. I can finally see where my students need help.\"",
+      "imageUrl": "https://images.unsplash.com/photo-1515994034738-1f437c226687?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHx0ZWFjaGVyJTIwcG9ydHJhaXR8ZW58MHx8fHwxNzYzMTQ2NzcwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "teacher portrait"
+    },
+    {
+      "id": "testimonial-3",
+      "description": "\"My daughter is more excited about learning than ever before. Thank you, MashMagic!\"",
+      "imageUrl": "https://images.unsplash.com/photo-1692736475357-7c18bfbb808b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHx3b21hbiUyMHNtaWxpbmd8ZW58MHx8fHwxNzYzMTc1NDAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman smiling"
+    },
+    {
+      "id": "dashboard-overview",
+      "description": "An overview chart for the analytics dashboard.",
+      "imageUrl": "https://images.unsplash.com/photo-1656510922456-e9018507288f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxkYXRhJTIwZ3JhcGh8ZW58MHx8fHwxNzYzMTg3Mzg2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "data graph"
+    }
+  ]
 }
